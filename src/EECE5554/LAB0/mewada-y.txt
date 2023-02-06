@@ -1,0 +1,2 @@
+1. A complete Ubuntu 20.04 has been installed with no such errors or issues.
+2. I have installed and setup the Git and GitHub as per the Lab requirements.

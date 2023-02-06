@@ -1,0 +1,8 @@
+prefix=/home/yash/Documents/EECE5554/LAB0/devel
+
+Name: doodle
+Description: Description of doodle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
